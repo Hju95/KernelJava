@@ -102,8 +102,11 @@
 | 송예진 | 10 | 3 |
 
 ### 결과 
+![FIFO](https://github.com/Hju95/KernelJava/assets/59231743/bde49e55-34a4-4348-906b-6a59fe73fa66)
 
-코드에 약간의 버그가 있어서 고병룡님의 결과로 참고하시면 될듯 합니다 쏘리...
+![SJF](https://github.com/Hju95/KernelJava/assets/59231743/4e4c241a-b0a8-4f60-a80a-888134e1b443)
+
+
 
 ### 미션
 - 정책을 인터페이스를 선언하고 각 정책 클래스를 구현합니다.
